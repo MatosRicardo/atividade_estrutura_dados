@@ -1,0 +1,12 @@
+[
+  { "name": "Caneta", "parent_name": null, "qty": 1, "unit_cost": 2.5 },
+  { "name": "Tinta", "parent_name": "Caneta", "qty": 1, "unit_cost": 0.8 },
+  { "name": "Pigmento", "parent_name": "Tinta", "qty": 1, "unit_cost": 0.3 },
+  { "name": "Solvente", "parent_name": "Tinta", "qty": 1, "unit_cost": 0.5 },
+  { "name": "Corpo", "parent_name": "Caneta", "qty": 1, "unit_cost": 1.0 },
+  { "name": "Plástico", "parent_name": "Corpo", "qty": 1, "unit_cost": 0.7 },
+  { "name": "Clip", "parent_name": "Corpo", "qty": 1, "unit_cost": 0.3 },
+  { "name": "Tampa", "parent_name": "Caneta", "qty": 1, "unit_cost": 0.7 },
+  { "name": "Plástico", "parent_name": "Tampa", "qty": 1, "unit_cost": 0.5 },
+  { "name": "Vedação", "parent_name": "Tampa", "qty": 1, "unit_cost": 0.2 }
+]
